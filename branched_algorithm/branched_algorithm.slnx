@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="branched_algorithm/branched_algorithm.vcxproj" Id="f0d3ca38-0a2e-41d5-bba7-ae330d3d38d6" />
+</Solution>
